@@ -1,6 +1,8 @@
 # Local PD The Sims 4 Mod
  Create a Police Station venue in your world and your detective sim will go there instead of the default one
-
+ <div style="text-align:center"><img src="[...](https://github.com/StefanRRachkov/Local-PD-The-Sims-4-Mod/assets/25185815/a99d7616-978c-43bc-92e1-39d8c5d554d1
+)" /></div>
+ 
 # Quick Notes
  There are some things that should be clarified.
  1. Zone is the lot in the world (Buildible zone)
